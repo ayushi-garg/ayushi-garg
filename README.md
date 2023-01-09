@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayushi-garg
-- 👀 I’m interested in cpp, python, data science, data processing, linux, and competitive programming.
-- 🌱 I’m currently learning cpp and competitive programming (cp)
-- 💞️ I’m looking to collaborate on cp solutions with cpp.
-- 📫 How to reach me .. contact me through : https://www.linkedin.com/in/ayushi-garg-8575a6184/
+- 👀 I’m interested in python, data engineering, data processing, linux, and logic building.
+- 🌱 I’m currently learning Big Data.
+- 💞️ I’m looking to collaborate on ETL technologies.
+- 📫 How to reach me .. contact me through : https://www.linkedin.com/in/ayushigargengineer/
 
 <!---
 ayushi-garg/ayushi-garg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
